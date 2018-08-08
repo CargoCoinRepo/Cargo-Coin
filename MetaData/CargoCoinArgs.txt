@@ -1,0 +1,7 @@
+(string _name, string _symbol, uint8 _decimals, uint _totalSupply, address _admin)
+
+"CargoCoin", "CRGO", 18, 100000000, "0xca40773e8f5b4ce95c213f22f11a9be540160818"
+
+
+
+0xca40773e8f5b4ce95c213f22f11a9be540160818
